@@ -1,5 +1,5 @@
 # TheSparksFoundation
->> This [website](https://rutikkpatel.github.io/TheSparksFoundation/) contains all tasks regarding webdevelopment Internship of The Sparks Foundation's program GRIP(Graduate Rotational Internship Program)
+> This [website](https://rutikkpatel.github.io/TheSparksFoundation/) contains all tasks regarding webdevelopment Internship of The Sparks Foundation's program GRIP(Graduate Rotational Internship Program)
 
 ## Tasks
 - Task 1 :- Basic Banking System [Website](https://ckmoney.000webhostapp.com/index.html)
